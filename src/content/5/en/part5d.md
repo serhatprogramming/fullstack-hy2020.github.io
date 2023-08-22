@@ -164,7 +164,7 @@ describe('Note app', function() {
 
 the test fails
 
-![cypress showing failure expecting to find wtf but no](../../images/5/57new.png)
+![cypress showing failure expecting to find what in the world but no](../../images/5/57new.png)
 
 Let's remove the failing code from the test.
 
